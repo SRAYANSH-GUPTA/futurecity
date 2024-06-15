@@ -1,0 +1,106 @@
+.nav
+{
+    font-size: 1.3rem;
+    position: sticky;
+    top: 0;
+    margin-top: 0;
+    margin-left: 0rem;
+    align-items: center;
+    padding: 0px 20px;
+    background-color: rgb(15, 15, 15);
+    display: flex;
+    border-bottom: 20px;
+    border-color: white;
+}
+.name
+{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: none;
+}
+.nav img{
+    margin-top: 1%;
+}
+
+.object
+{
+    font-family: cursive;
+    color: white;
+    text-align: center;
+    margin-top: 0;
+}
+.img:hover
+{
+    transition: all 0.4s;
+    transform: scale(1.05);
+}
+footer {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+.footer-bar
+{
+    justify-content: center;
+    border-top: white;
+    max-width: 1200px;
+    margin: 0 auto; 
+    font-size: 100px;
+}
+ul.footer-content
+{
+    font-size: large;
+    color: white;
+    font-family: cursive;
+    background-color: rgb(0, 0, 0);
+    display: inline-block;
+    text-align: left;
+}
+.robots
+{
+    margin-top: 30px;
+    margin-left: 20px;
+    color: white;
+}
+.robots-heading
+{
+    color: white;
+    font-size: 40px;
+    margin-left: 20px;
+    text-decoration: none;
+    font-weight: lighter;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.robotssection
+{
+    margin: 0px;
+    align-items: normal;
+}
+.robocon{
+    font-size: medium; 
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 100px;
+    font-size: large;
+    font-family: cursive;
+    color: white;
+}
+#robo
+{
+    margin-top: 30px;
+    border-radius: 30px;
+    padding: 20px 32px;
+    background-color: orangered;
+    border: none;
+}
+#robo a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
