@@ -1,0 +1,183 @@
+
+@keyframes animation
+{
+    from
+    {
+        left: 0%;
+    }
+    to {
+        left: 10%;
+    }
+}
+
+
+
+
+.navc
+{
+    font-size: 1.3rem;
+    position: relative;
+    top: 2rem;
+    margin-top: 5rem;
+    margin:20px auto -115px;
+    width: 75%;
+    margin-left: 0%;
+
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    border-bottom: 20px;
+    border-color: white;
+    background-color: rgba(0, 0, 0, 0.5); 
+    border-radius: 90px; 
+    padding: 10px 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(2px);
+
+    /*animation*/
+    animation-name: animation;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+.nav
+{
+    font-size: 1.3rem;
+    position: sticky;
+    top: 0;
+    margin-top: 0;
+    margin-left: 0rem;
+    align-items: center;
+    padding: 0px 20px;
+    background-color: rgb(15, 15, 15);
+    display: flex;
+    border-bottom: 20px;
+    border-color: white;
+}
+
+
+#cover
+{
+    margin-left: 0;
+    
+}
+.name
+{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: none;
+}
+.nav img{
+    margin-top: 1%;
+}
+body
+{
+    
+    margin: 0%;
+    background-repeat: repeat;
+}
+.object
+{
+    font-family: cursive;
+    color: white;
+    text-align: center;
+    margin-top: 0;
+    margin-left: -20rem;
+    position: relative;
+   
+   
+    animation-name: animation;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+.img:hover
+{
+    transition: all 0.4s;
+    transform: scale(1.05);
+}
+footer {
+    background-color:rgb(39, 38, 38);
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+.footer-bar
+{
+    justify-content: center;
+    border-top: white;
+    max-width: 1200px;
+    margin: 0 auto; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
+ul.footer-content
+{
+    font-size: large;
+    color: white;
+    font-family: cursive;
+    display: inline-block;
+    text-align: left;
+}
+.robots
+{
+    margin-top: 30px;
+    margin-left: 20px;
+    color: white;
+
+
+    
+}
+.robots-heading
+{
+    color: white;
+    font-size: 40px;
+    margin-left: 5px;
+    text-decoration: none;
+    font-weight: lighter;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+    
+}
+
+.robotssection
+{
+    margin: 0px;
+    align-items: normal;
+
+    
+}
+.robocon{
+    font-size: medium; 
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 100px;
+    font-size: large;
+    font-family: cursive;
+    color: white;
+}
+#robo
+{
+    margin-top: 30px;
+    border-radius: 30px;
+    padding: 20px 32px;
+    background-color: orangered;
+    border: none;
+}
+#robo a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.anim
+{
+    margin-left: -8rem;
+    position: relative;
+    animation-name: animation;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
