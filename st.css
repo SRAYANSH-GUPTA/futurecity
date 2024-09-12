@@ -3,10 +3,10 @@
 {
     from
     {
-        left: 0%;
+        transform: translateX(0%);
     }
     to {
-        left: 10%;
+        transform: translateX(10%);
     }
 }
 
@@ -18,10 +18,11 @@
     font-size: 1.3rem;
     position: relative;
     top: 2rem;
-    margin-top: 5rem;
-    margin:20px auto -115px;
+    /*margin-top: 5rem;*/
+    /*margin: 20px 10px -115px;*/
+    margin: 20px 10px;
     width: 75%;
-    margin-left: 0%;
+    
 
     align-items: center;
     font-family: 'Times New Roman', Times, serif;
@@ -58,6 +59,7 @@
 #cover
 {
     margin-left: 0;
+    width: 1345px;
     
 }
 .name
@@ -84,11 +86,8 @@ body
     margin-top: 0;
     margin-left: -20rem;
     position: relative;
+    margin: 0 auto;
    
-   
-    animation-name: animation;
-    animation-duration: 2s;
-    animation-fill-mode: forwards;
 }
 .img:hover
 {
@@ -131,7 +130,7 @@ ul.footer-content
 {
     color: white;
     font-size: 40px;
-    margin-left: 5px;
+    margin-left: 10px;
     text-decoration: none;
     font-weight: lighter;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
