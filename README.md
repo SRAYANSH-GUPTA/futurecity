@@ -6,7 +6,7 @@ Here is the link: (https://srayansh-gupta.github.io/futurecity/)
 
 - *HTML5*: Semantic markup for the website structure.
 - *CSS3*: Custom styling for layout, responsiveness, and aesthetics.
-- *JavaScript*: Client-side scripting for dynamic behavior and interactions.
+- *JavaScript*: Client-side scripting for dynamic behavior and interactions.(in future). User interactive.
 
 ## Features
 
