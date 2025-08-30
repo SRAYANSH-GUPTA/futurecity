@@ -1,6 +1,6 @@
-# [Futurecity](https://srayansh-gupta.github.io/futurecity/) Website 
+# [Futurecity](https://futurecity-zeta.vercel.app/) Website 
 Welcome to Futurecity website repository!!. This website was given as an exercise to get hands on experience on HTML, CSS and JavaScript.
-Here is the link: (https://srayansh-gupta.github.io/futurecity/)
+Here is the link: (https://futurecity-zeta.vercel.app/)
 
 ## Technologies Used
 
